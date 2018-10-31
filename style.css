@@ -1,0 +1,12 @@
+body {
+	background: linear-gradient(to right, red, yellow);
+	text-align: center;
+}
+
+h1 {
+	font-size: 400%
+}
+
+h2 {
+	font-size: 250%
+}
